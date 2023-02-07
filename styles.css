@@ -5,7 +5,20 @@ Yellow- f5aa6e
 Green- 1a6464
 ButtonRed- f23509  */
 
-body{
-    background-color: #f6f1f2;    
+body {
+  background-color: #f6f1f2;
+}
+
+.navbar {
+  background-color: #af1238;
+}
+
+.mainImg{
+  height: 500px;
+  width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  margin-top: 5%;
 }
 
