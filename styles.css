@@ -6,14 +6,14 @@ Green- 1a6464
 ButtonRed- f23509  */
 
 body {
-  background-color: #f6f1f2;
+  background-color: #af1238;
 }
 
 .navbar {
   background-color: #af1238;
 }
 
-.mainImg{
+.mainImg {
   height: 500px;
   width: 500px;
   margin-left: auto;
@@ -22,3 +22,20 @@ body {
   margin-top: 5%;
 }
 
+.contents {
+  background-color: #f6f1f2;
+  padding-top: 5px;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 25px;
+}
+
+.ico {
+  height: 25px;
+  width: 25px;
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
