@@ -5,6 +5,10 @@ Yellow- f5aa6e
 Green- 1a6464
 ButtonRed- f23509  */
 
+html {
+  scroll-behavior: smooth;
+}
+
 body {
   background-color: #af1238;
   font-family: 'Sono', sans-serif;
@@ -49,7 +53,7 @@ body {
 }
 
 .footer{
-  background-color: black;
+  background-color: rgba(0, 0, 0, 0.5);
   position:fixed;
   width: 100%;
   bottom: 0;
