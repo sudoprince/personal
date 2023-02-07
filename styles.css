@@ -37,6 +37,11 @@ body {
   margin-bottom: 5px;
 }
 
+.nav-link{
+  color: white;
+}
+
+
 
 @media screen and (min-width: 690px) {
   .contents {
