@@ -9,6 +9,12 @@ html {
   scroll-behavior: smooth;
 }
 
+.homeBtn{
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-bottom: 10px;
+}
+
 body {
   background-color: #af1238;
   font-family: 'Sono', sans-serif;
@@ -20,7 +26,7 @@ body {
 
 .mainImg {
   height: 250px;
-  width: 250px;
+  width: 332px;
   margin-left: auto;
   margin-right: auto;
   display: block;
@@ -59,6 +65,7 @@ body {
   bottom: 0;
 }
 
+
 @media screen and (min-width: 690px) {
   .contents {
     background-color: #f6f1f2;
@@ -70,8 +77,8 @@ body {
   }
 
   .mainImg {
-    height: 500px;
-    width: 500px;
+    height: 437px;
+    width: 600px;
     margin-left: auto;
     margin-right: auto;
     display: block;
